@@ -22,6 +22,16 @@ I solve LeetCode problems daily to improve my:
 
 ---
 
+## 📅 Daily Progress
+
+| Day | Problem | Topic | Status |
+|-----|---------|-------|--------|
+| Day 1 | 167. Two Sum II | Two Pointers | ✅ |
+| Day 2 | 125. Valid Palindrome | Two Pointers | ✅ |
+| Day 3 | 344. Reverse String | Two Pointers | ✅ |
+| Day 4 | 977. Squares of a Sorted Array | Two Pointers | ✅ |
+| Day 5 | 1929. Concatenation of Array | Arrays | ✅ |
+
 ## 📚 Topics Covered
 
 - ✅ Arrays
