@@ -31,6 +31,7 @@ I solve LeetCode problems daily to improve my:
 | Day 3 | 344. Reverse String | Two Pointers | ✅ |
 | Day 4 | 977. Squares of a Sorted Array | Two Pointers | ✅ |
 | Day 5 | 1929. Concatenation of Array | Arrays | ✅ |
+| Day 6 | 231. Power of Two  | Math | ✅ |
 
 ## 📚 Topics Covered
 
