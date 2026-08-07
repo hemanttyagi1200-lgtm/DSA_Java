@@ -32,6 +32,7 @@ I solve LeetCode problems daily to improve my:
 | Day 4 | 977. Squares of a Sorted Array | Two Pointers | ✅ |
 | Day 5 | 1929. Concatenation of Array | Arrays | ✅ |
 | Day 6 | 231. Power of Two  | Math | ✅ |
+| Day 7 | 242. Valid Anagram  | HashMap | ✅ |
 
 ## 📚 Topics Covered
 
