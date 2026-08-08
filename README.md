@@ -33,6 +33,7 @@ I solve LeetCode problems daily to improve my:
 | Day 5 | 1929. Concatenation of Array | Arrays | ✅ |
 | Day 6 | 231. Power of Two  | Math | ✅ |
 | Day 7 | 242. Valid Anagram  | HashMap | ✅ |
+| Day 8 | 002. Add Two Numbers  | Linked List | ✅ |
 
 ## 📚 Topics Covered
 
