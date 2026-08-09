@@ -34,6 +34,7 @@ I solve LeetCode problems daily to improve my:
 | Day 6 | 231. Power of Two  | Math | ✅ |
 | Day 7 | 242. Valid Anagram  | HashMap | ✅ |
 | Day 8 | 002. Add Two Numbers  | Linked List | ✅ |
+| Day 9 | 485. Maximum Consecutive Ones  | Arrays | ✅ |
 
 ## 📚 Topics Covered
 
