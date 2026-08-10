@@ -35,6 +35,7 @@ I solve LeetCode problems daily to improve my:
 | Day 7 | 242. Valid Anagram  | HashMap | ✅ |
 | Day 8 | 002. Add Two Numbers  | Linked List | ✅ |
 | Day 9 | 485. Maximum Consecutive Ones  | Arrays | ✅ |
+| Day 10 | 1295. Find Numbers With Even Number of Digits  | Arrays | ✅ |
 
 ## 📚 Topics Covered
 
