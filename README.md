@@ -36,6 +36,7 @@ I solve LeetCode problems daily to improve my:
 | Day 8 | 002. Add Two Numbers  | Linked List | ✅ |
 | Day 9 | 485. Maximum Consecutive Ones  | Arrays | ✅ |
 | Day 10 | 1295. Find Numbers With Even Number of Digits  | Arrays | ✅ |
+| Day 11 | 1089. Duplicate Zeros  | Arrays | ✅ |
 
 ## 📚 Topics Covered
 
