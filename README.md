@@ -37,6 +37,7 @@ I solve LeetCode problems daily to improve my:
 | Day 9 | 485. Maximum Consecutive Ones  | Arrays | ✅ |
 | Day 10 | 1295. Find Numbers With Even Number of Digits  | Arrays | ✅ |
 | Day 11 | 1089. Duplicate Zeros  | Arrays | ✅ |
+| Day 12 | 088. Merge Sorted Array  | Two Pointers | ✅ |
 
 ## 📚 Topics Covered
 
