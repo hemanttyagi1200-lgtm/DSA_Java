@@ -40,6 +40,7 @@ I solve LeetCode problems daily to improve my:
 | Day 12 | 088. Merge Sorted Array  | Two Pointers | ✅ |
 | Day 13 | 027. Remove Element  | Arrays | ✅ |
 | Day 14 | 026. Remove Duplicates from Sorted Array  | Arrays | ✅ |
+| Day 15 | 1346. Check If N and Its Double Exist  | HashSet | ✅ |
 
 ## 📚 Topics Covered
 
