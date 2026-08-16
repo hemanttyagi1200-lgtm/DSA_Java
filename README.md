@@ -41,6 +41,7 @@ I solve LeetCode problems daily to improve my:
 | Day 13 | 027. Remove Element  | Arrays | ✅ |
 | Day 14 | 026. Remove Duplicates from Sorted Array  | Arrays | ✅ |
 | Day 15 | 1346. Check If N and Its Double Exist  | HashSet | ✅ |
+| Day 16 | 941. LeetCode 941 - Valid Mountain Array  | Arrays | ✅ |
 
 ## 📚 Topics Covered
 
