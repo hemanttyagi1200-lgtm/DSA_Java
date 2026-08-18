@@ -43,6 +43,7 @@ I solve LeetCode problems daily to improve my:
 | Day 15 | 1346. Check If N and Its Double Exist  | HashSet | ✅ |
 | Day 16 | 941. Valid Mountain Array  | Arrays | ✅ |
 | Day 17 | 1299. Replace Elements with Greatest Element on Right Side  | Arrays | ✅ |
+| Day 18 | 283. Move Zeroes  | Two Pointers | ✅ |
 
 ## 📚 Topics Covered
 
