@@ -44,6 +44,7 @@ I solve LeetCode problems daily to improve my:
 | Day 16 | 941. Valid Mountain Array  | Arrays | ✅ |
 | Day 17 | 1299. Replace Elements with Greatest Element on Right Side  | Arrays | ✅ |
 | Day 18 | 283. Move Zeroes  | Two Pointers | ✅ |
+| Day 19 | 905. Sort Array By Parity  | Arrays| ✅ |
 
 ## 📚 Topics Covered
 
