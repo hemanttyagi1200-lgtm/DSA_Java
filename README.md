@@ -45,6 +45,7 @@ I solve LeetCode problems daily to improve my:
 | Day 17 | 1299. Replace Elements with Greatest Element on Right Side  | Arrays | ✅ |
 | Day 18 | 283. Move Zeroes  | Two Pointers | ✅ |
 | Day 19 | 905. Sort Array By Parity  | Arrays| ✅ |
+| Day 20 | 1051. Height Checker  | Arrays| ✅ |
 
 ## 📚 Topics Covered
 
