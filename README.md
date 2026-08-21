@@ -46,7 +46,7 @@ I solve LeetCode problems daily to improve my:
 | Day 18 | 283. Move Zeroes  | Two Pointers | ✅ |
 | Day 19 | 905. Sort Array By Parity  | Arrays| ✅ |
 | Day 20 | 1051. Height Checker  | Arrays| ✅ |
-| Day 221 | 448. Find All Numbers Disappeared in an Array  | Arrays| ✅ |
+| Day 21 | 448. Find All Numbers Disappeared in an Array  | Arrays| ✅ |
 
 ## 📚 Topics Covered
 
