@@ -49,6 +49,7 @@ I solve LeetCode problems daily to improve my:
 | Day 21 | 448. Find All Numbers Disappeared in an Array  | Arrays| ✅ |
 | Day 22 | 414. Third Maximum Number  | Arrays| ✅ |
 | Day 23 | 066. Plus One  | Arrays| ✅  |
+| Day 24 | 643. Maximum Average Subarray I  | Sliding Window| ✅  |
 
 ## 📚 Topics Covered
 
