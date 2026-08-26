@@ -51,6 +51,7 @@ I solve LeetCode problems daily to improve my:
 | Day 23 | 066. Plus One  | Arrays| ✅  |
 | Day 24 | 643. Maximum Average Subarray I  | Sliding Window| ✅  |
 | Day 25 | 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  | Sliding Window| ✅  |
+| Day 26 | 1456. Maximum Number of Vowels in a Substring of Given Length  | Sliding Window| ✅  |
 
 ## 📚 Topics Covered
 
