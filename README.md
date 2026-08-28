@@ -53,6 +53,7 @@ I solve LeetCode problems daily to improve my:
 | Day 25 | 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold  | Sliding Window| ✅  |
 | Day 26 | 1456. Maximum Number of Vowels in a Substring of Given Length  | Sliding Window | ✅  |
 | Day 27 | 1423. Maximum Points You Can Obtain from Cards | Sliding Window | ✅ |
+| Day 28 | 1052. Grumpy Bookstore Owner | Sliding Window | ✅ |
 
 
 ## 📚 Topics Covered
