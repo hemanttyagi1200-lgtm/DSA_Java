@@ -54,6 +54,7 @@ I solve LeetCode problems daily to improve my:
 | Day 26 | 1456. Maximum Number of Vowels in a Substring of Given Length  | Sliding Window | ✅  |
 | Day 27 | 1423. Maximum Points You Can Obtain from Cards | Sliding Window | ✅ |
 | Day 28 | 1052. Grumpy Bookstore Owner | Sliding Window | ✅ |
+| Day 29 | 2461. Maximum Sum of Distinct Subarrays With Length K | Sliding Window + HashMap | ✅ |
 
 
 ## 📚 Topics Covered
