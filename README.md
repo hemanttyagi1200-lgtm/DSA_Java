@@ -56,7 +56,8 @@ I solve LeetCode problems daily to improve my:
 | Day 28 | 1052. Grumpy Bookstore Owner | Sliding Window | ✅ |
 | Day 29 | 2461. Maximum Sum of Distinct Subarrays With Length K | Sliding Window + HashMap | ✅ |
 | Day 30 | 2090. K Radius Subarray Averages | Sliding Window | ✅ |
-| Day 31 | 2379. Minimum Recolors to Get K Consecutive Black Blocks    | Sliding Window | ✅ |
+| Day 31 | 2379. Minimum Recolors to Get K Consecutive Black Blocks  | Sliding Window | ✅ |
+| Day 32 | 1984. Minimum Difference Between Highest and Lowest of K Scores  | 1984. Minimum Difference Between Highest and Lowest of K Scores | ✅ |
 
 
 ## 📚 Topics Covered
