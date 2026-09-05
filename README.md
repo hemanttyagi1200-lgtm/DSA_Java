@@ -58,7 +58,7 @@ I solve LeetCode problems daily to improve my:
 | Day 30 | 2090. K Radius Subarray Averages | Sliding Window | ✅ |
 | Day 31 | 2379. Minimum Recolors to Get K Consecutive Black Blocks  | Sliding Window | ✅ |
 | Day 32 | 1984. Minimum Difference Between Highest and Lowest of K Scores  | Sliding Window | ✅ |
-| Day 33 | 209. Minimum Size Subarray Sum  | Sliding Window | ✅ |
+| Day 33 | 209. Minimum Size Subarray Sum    | Sliding Window | ✅ |
 
 
 ## 📚 Topics Covered
