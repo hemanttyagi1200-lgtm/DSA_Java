@@ -62,6 +62,7 @@ I solve LeetCode problems daily to improve my:
 | Day 34 | 713. Subarray Product Less Than K | Sliding Window | ✅ |
 | Day 35 | 1004. Max Consecutive Ones III | Sliding Window | ✅ |
 | Day 36 | 904. Fruit Into Baskets | Sliding Window | ✅ |
+| Day 37 | 1493. Longest Subarray of 1's After Deleting One Element | Sliding Window | ✅ |
 
 
 ## 📚 Topics Covered
