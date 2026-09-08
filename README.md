@@ -64,6 +64,8 @@ I solve LeetCode problems daily to improve my:
 | Day 36 | 904. Fruit Into Baskets | Sliding Window | ✅ |
 | Day 37 | 1493. Longest Subarray of 1's After Deleting One Element | Sliding Window | ✅ |
 | Day 38 | 3. Longest Substring Without Repeating Characters | Sliding Window + HashMap | ✅ |
+| Day 39 | 930. Binary Subarrays With Sum | Sliding Window | ✅ |
+
 
 
 
