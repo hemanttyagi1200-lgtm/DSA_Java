@@ -66,6 +66,7 @@ I solve LeetCode problems daily to improve my:
 | Day 38 | 0003. Longest Substring Without Repeating Characters | Sliding Window + HashMap | ✅ |
 | Day 39 | 0930. Binary Subarrays With Sum | Sliding Window | ✅ |
 | Day 40 | 0704. Binary Search | Binary Search | ✅ |
+| Day 41 | 0035. Search Insert Position | Binary Search | ✅ |
 
 
 
