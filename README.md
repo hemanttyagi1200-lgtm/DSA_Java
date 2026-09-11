@@ -67,6 +67,7 @@ I solve LeetCode problems daily to improve my:
 | Day 39 | 0930. Binary Subarrays With Sum | Sliding Window | ✅ |
 | Day 40 | 0704. Binary Search | Binary Search | ✅ |
 | Day 41 | 0035. Search Insert Position | Binary Search | ✅ |
+| Day 42 | 34. Find First and Last Position of Element in Sorted Array | Binary Search | ✅ |
 
 
 
