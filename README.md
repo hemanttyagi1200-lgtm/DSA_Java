@@ -69,6 +69,7 @@ I solve LeetCode problems daily to improve my:
 | Day 41 | 0035. Search Insert Position | Binary Search | ✅ |
 | Day 42 | 0034. Find First and Last Position of Element in Sorted Array | Binary Search | ✅ |
 | Day 43 | 0033. Search in Rotated Sorted Array | Binary Search | ✅ |
+| Day 44 | 0278. First Bad Version | Binary Search | ✅ |
 
 
 
