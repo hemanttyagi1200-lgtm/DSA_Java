@@ -70,6 +70,7 @@ I solve LeetCode problems daily to improve my:
 | Day 42 | 0034. Find First and Last Position of Element in Sorted Array | Binary Search | ✅ |
 | Day 43 | 0033. Search in Rotated Sorted Array | Binary Search | ✅ |
 | Day 44 | 0278. First Bad Version | Binary Search | ✅ |
+| Day 45 | 0069. Sqrt(x) | Binary Search | ✅ |
 
 
 
