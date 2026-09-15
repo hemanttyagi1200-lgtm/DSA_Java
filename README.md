@@ -71,6 +71,7 @@ I solve LeetCode problems daily to improve my:
 | Day 43 | 0033. Search in Rotated Sorted Array | Binary Search | ✅ |
 | Day 44 | 0278. First Bad Version | Binary Search | ✅ |
 | Day 45 | 0069. Sqrt(x) | Binary Search | ✅ |
+| Day 46 | 0374. Guess Number Higher or Lower | Binary Search | ✅ |
 
 
 
