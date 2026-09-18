@@ -72,7 +72,7 @@ I solve LeetCode problems daily to improve my:
 | Day 44 | 0278. First Bad Version | Binary Search | ✅ |
 | Day 45 | 0069. Sqrt(x) | Binary Search | ✅ |
 | Day 46 | 0374. Guess Number Higher or Lower | Binary Search | ✅ |
-| Day 47 | 0153. Find Minimum in Rotated Sorted Array       | Binary Search | ✅ |
+| Day 47 | 0153. Find Minimum in Rotated Sorted Array | Binary Search | ✅ |
 
 
 
