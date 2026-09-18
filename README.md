@@ -73,6 +73,8 @@ I solve LeetCode problems daily to improve my:
 | Day 45 | 0069. Sqrt(x) | Binary Search | ✅ |
 | Day 46 | 0374. Guess Number Higher or Lower | Binary Search | ✅ |
 | Day 47 | 0153. Find Minimum in Rotated Sorted Array | Binary Search | ✅ |
+| Day 48 | 0162. Find Peak Element | Binary Search | ✅ |
+| Day 49 | 0852. Peak Index in a Mountain Array | Binary Search | ✅ |
 
 
 
