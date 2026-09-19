@@ -75,6 +75,7 @@ I solve LeetCode problems daily to improve my:
 | Day 47 | 0153. Find Minimum in Rotated Sorted Array | Binary Search | ✅ |
 | Day 48 | 0162. Find Peak Element | Binary Search | ✅ |
 | Day 49 | 0852. Peak Index in a Mountain Array | Binary Search | ✅ |
+| Day 50 | 0875. Koko Eating Bananas | Binary Search | ✅ |
 
 
 
